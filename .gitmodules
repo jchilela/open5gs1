@@ -1,0 +1,3 @@
+[submodule "princ"]
+	path = princ
+	url = https://github.com/jchilela/open5gs1.git
